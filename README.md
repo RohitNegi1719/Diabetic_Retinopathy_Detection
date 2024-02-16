@@ -20,3 +20,6 @@ streamlit run app.py
 
 ## Dataset
 The model was trained on a dataset not included in this repository. You can find similar datasets from medical image databases or research institutes specializing in ophthalmology.
+
+## Author
+Rohit Negi
